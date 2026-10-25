@@ -69,4 +69,4 @@ if uploaded:
                     Path(temp_path).unlink(missing_ok=True)
 
 st.divider()
-st.markdown("**Research limitation:** this is a frame-based model. Predictions can fail on unseen manipulation methods, compression, lighting, or non-face imagery. Do not use it as definitive evidence.")
+
