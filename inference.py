@@ -47,7 +47,7 @@ CLASS_NAMES = {
 REAL_CLASS_INDEX = 0
 FAKE_CLASS_INDEX = 1
 
-DECISION_THRESHOLD = 0.3
+DECISION_THRESHOLD = 0.4
 
 IMAGE_EXTENSIONS = {
     ".jpg", ".jpeg", ".png", ".webp", ".bmp"
