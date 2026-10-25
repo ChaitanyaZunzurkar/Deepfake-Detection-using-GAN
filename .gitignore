@@ -4,5 +4,4 @@ __pycache__/
 .streamlit/
 uploads/
 outputs/
-models/*.pth
-models/*.pt
+
