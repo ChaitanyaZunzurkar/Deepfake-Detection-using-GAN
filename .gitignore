@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+.streamlit/
+uploads/
+outputs/
+models/*.pth
+models/*.pt
